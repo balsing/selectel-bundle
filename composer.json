@@ -1,5 +1,5 @@
 {
-    "name": "youtool/selectel-bundle",
+    "name": "balsing/selectel-bundle",
     "type": "symfony-bundle",
     "description": "Bundle for selectel's api",
     "keywords": [],
